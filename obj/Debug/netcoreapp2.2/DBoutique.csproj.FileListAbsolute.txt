@@ -28,3 +28,8 @@
 /home/deb/DBoutique/obj/Debug/netcoreapp2.2/DBoutique.dll
 /home/deb/DBoutique/obj/Debug/netcoreapp2.2/DBoutique.pdb
 /home/deb/DBoutique/obj/Debug/netcoreapp2.2/DBoutique.csproj.CopyComplete
+/home/deb/DBoutique/obj/Debug/netcoreapp2.2/Razor/Views/Stalk/Create.g.cshtml.cs
+/home/deb/DBoutique/obj/Debug/netcoreapp2.2/Razor/Views/Stalk/Delete.g.cshtml.cs
+/home/deb/DBoutique/obj/Debug/netcoreapp2.2/Razor/Views/Stalk/Details.g.cshtml.cs
+/home/deb/DBoutique/obj/Debug/netcoreapp2.2/Razor/Views/Stalk/Edit.g.cshtml.cs
+/home/deb/DBoutique/obj/Debug/netcoreapp2.2/Razor/Views/Stalk/Index.g.cshtml.cs
