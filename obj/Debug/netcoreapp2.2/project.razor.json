@@ -1882,6 +1882,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/deb/DBoutique/Views/Stalk/Delete.cshtml",
+      "TargetPath": "Views\\Stalk\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/deb/DBoutique/Views/Stalk/Edit.cshtml",
+      "TargetPath": "Views\\Stalk\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/deb/DBoutique/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -1889,6 +1899,11 @@
     {
       "FilePath": "/home/deb/DBoutique/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/deb/DBoutique/Views/Stalk/Index.cshtml",
+      "TargetPath": "Views\\Stalk\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -1902,8 +1917,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/deb/DBoutique/Views/Stalk/Create.cshtml",
+      "TargetPath": "Views\\Stalk\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/deb/DBoutique/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/deb/DBoutique/Views/Stalk/Details.cshtml",
+      "TargetPath": "Views\\Stalk\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
