@@ -1,10 +1,15 @@
 using Microsoft.EntityFrameworkCore;
+using Models;
 
 namespace Data
 {
     public class StalkContext : DbContext
     {
-        public Dbset<Stalk> Stolk { get; set; }
+        public StalkContext(DbContextOptions options) : base(options)
+        {
+
+        }
+        public DbSet<Stalk> Stolk { get; set; }
 
     }
 }
